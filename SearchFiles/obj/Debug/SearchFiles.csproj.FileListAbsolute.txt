@@ -1,0 +1,9 @@
+C:\Users\MB\Desktop\SearchFiles\SearchFiles\bin\Debug\SearchFiles.exe.config
+C:\Users\MB\Desktop\SearchFiles\SearchFiles\bin\Debug\SearchFiles.exe
+C:\Users\MB\Desktop\SearchFiles\SearchFiles\bin\Debug\SearchFiles.pdb
+C:\Users\MB\Desktop\SearchFiles\SearchFiles\obj\Debug\SearchFiles.Properties.Resources.resources
+C:\Users\MB\Desktop\SearchFiles\SearchFiles\obj\Debug\SearchFiles.csproj.GenerateResource.cache
+C:\Users\MB\Desktop\SearchFiles\SearchFiles\obj\Debug\SearchFiles.exe
+C:\Users\MB\Desktop\SearchFiles\SearchFiles\obj\Debug\SearchFiles.pdb
+C:\Users\MB\Desktop\SearchFiles\SearchFiles\obj\Debug\SearchFiles.MainForm.resources
+C:\Users\MB\Desktop\SearchFiles\SearchFiles\obj\Debug\SearchFiles.csprojAssemblyReference.cache
